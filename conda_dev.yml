@@ -1,0 +1,28 @@
+name: base
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python==3.8
+  - watchdog
+  - notebook
+  - jupyter_contrib_nbextensions
+  - jupytext
+  - nb_conda_kernels
+  - pandas
+  - numpy
+  - pycaret
+  - pandas-profiling
+  - conda
+  - sweetviz
+  - autoviz
+  - mamba
+  - pipdeptree
+  - pipreqs
+  - ca-certificates
+  - certifi
+  - openssl
+  - bibtexparser
+  - yapf
+  - openpyxl
+prefix: /Users/danieldeutsch/opt/anaconda3/envs/thesis_analysis
